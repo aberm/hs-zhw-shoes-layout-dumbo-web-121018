@@ -42,3 +42,9 @@
   margin-left: 0;
 }
 
+.row {
+  margin-top: 2%;
+  background-color: white;
+  display: block;
+  height: 50px;
+}
